@@ -1,3 +1,4 @@
 // WD T43 Compuslory Task 1&2
 
-console.log("Git is Awesome!");
+let userData = prompt('Please enter a name: ');
+console.log(userData);
